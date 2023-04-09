@@ -1,0 +1,120 @@
+.body{
+    width: 100%;
+    height: 1500px;
+}
+.main{
+    width: 100%;
+    height: 700px; 
+    background-color: rgb(53, 52, 52) ;
+}
+.head{
+    width: 100%;
+    height: 220px; 
+    background-color: rgb(53, 52, 52);
+    color: white;
+   
+}
+.head h1{
+font-size: 3em;
+margin-left: 36% ;
+padding-top: 25PX;
+}
+.head p{
+     margin-left: 33% ;
+    }
+    .box{
+        width: 350px;
+    height: 650px;  
+    background-color: white;
+    margin-right: 30px;
+    }
+    .box-3{
+        display: flex;
+        margin-left:200px;
+
+    }
+    .boxtop{
+        width: 100%;
+        height: 50%;
+      
+        }
+        .boxtop h1{
+            align-items: center;
+            margin-left: 60px;
+            margin-top: 0%;
+            color: white;
+            padding-top: 15px;
+
+        }
+        .boxtop-2 h1{
+            align-items: center;
+            margin-left: 60px;
+            padding-top: 15px;
+            color: white;
+            margin-top: 0%;
+        }
+    .boxtop{
+        width: 100%;
+        height: 350px;
+        background-color: rgb(93, 90, 90);
+       
+      }
+      .boxtend{
+        width: 100%;
+        height: 415px;
+        background-color: white;
+       
+      }
+    .boxtop-2{
+        width: 100%;
+        height: 350px;
+        background-color: red;
+       
+    }
+   .boxend ul{
+    list-style: none;
+   }
+            
+        
+    .boxend h3{
+        align-items: center;
+        margin-left: 95px;
+    }
+    .boxtop img{
+        width: 100%;
+        height: 280px;
+    }
+    .boxtop-2 img{
+        width: 100%;
+        height: 280px;
+    }
+.boxend a{
+    border: 1px solid black;
+    padding: 10px 15px;
+    background-color: rgb(214, 16, 12);
+    color: white;
+    text-decoration: none;
+    margin-left: 105px;
+    text-align: center;
+    margin-top: 30px;
+    font-weight: bold;
+    border-width: 0px;
+
+}
+  .boxend a:hover{
+    color: black;
+    background-color:white;
+    border-bottom: 5px solid red;
+    padding-bottom: 5px;
+  }
+  .footer{
+    width: 100%;
+    height: 200px;
+    background-color: rgb(25, 23, 23);
+  }
+  .footer p{
+    text-align: center;
+    color: white;
+    padding-top: 50px;
+    margin-top: 0%;
+  }
